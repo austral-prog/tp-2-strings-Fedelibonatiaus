@@ -11,7 +11,7 @@ def casting():
     print("Precio: " + str(precio))
     print("Descuento: " + str(descuento))
     print("Precio con descuento: " + str(precio - descuento))
-    print("Total: " + " " + str(total))
+    print("Total: " + str(total))
 
 
 #casting()
