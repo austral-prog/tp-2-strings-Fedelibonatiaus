@@ -82,6 +82,4 @@ def ficha():
     print("Promedio Entero: " + str(promedio_entero))
 
 
-
-
-ficha()
+#ficha()
