@@ -35,7 +35,7 @@ def ficha():
     nota3= input ("Ingresar tercera nota: ")
 
     print("="*24)
-    print("       FICHA DEL ALUMNO")
+    print("    FICHA DEL ALUMNO")
     print("=" * 24)
     print("Nombre: " + ((Nombre.strip().title())))
     print("Email: " + (email_limpio))
